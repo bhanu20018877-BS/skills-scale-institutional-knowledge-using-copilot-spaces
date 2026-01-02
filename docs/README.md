@@ -37,3 +37,13 @@ The goal of this documentation is to:
 - Centralize project management knowledge
 - Improve onboarding for new team members
 - Ensure consistency across OctoAcme projects
+
+## Roles and Responsibilities
+
+- **Product Owner**: Defines requirements, prioritizes the backlog, and ensures business value.
+- **Project Manager**: Oversees timelines, coordinates tasks, and ensures delivery milestones are met.
+- **Developers**: Implement features, fix bugs, and maintain code quality.
+- **Reviewers**: Review pull requests, ensure standards are followed, and approve changes.
+- **Stakeholders**: Provide feedback and validate outcomes against business needs.
+
+
